@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name ADP124)(type KiCad)(uri ${KIPRJMOD}/ADP124/footprints.pretty)(options "")(descr ""))
+  (lib (name LTC4150)(type KiCad)(uri ${KIPRJMOD}/LTC4150/footprints.pretty)(options "")(descr ""))
+)
